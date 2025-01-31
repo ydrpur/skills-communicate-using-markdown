@@ -5,3 +5,4 @@
 ##### example number 5
 ###### example number 6
 ####### exmpole number 7
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
